@@ -1,1 +1,1 @@
-SuicideDataAalysis
+SuicideDataAalisis
